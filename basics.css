@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:#B3B3B3;
+}
+.container
+{
+	width:800px;
+	height:100%;
+	background-color:#FFFFFF;
+	margin:0px auto;
+	overflow:hidden;
+}
+header
+{
+	width:760px;
+	height:370px;
+	background-color:#D8D7D7;
+	margin:50px 20px 5px 20px;
+}
+.admin
+{
+	width:240px;
+	height:150px;
+	background-color:#dd3d5d;
+	margin:0 0 35px 20px;
+}
+.admin1
+{
+	width:240px;
+	height:150px;
+	background-color:#dd3d5d;
+	margin:0 0 35px 20px;
+	left:240px;
+	position:relative;
+}
+.admin2
+{
+	width:240px;
+	height:150px;
+	background-color:#dd3d5d;
+	margin:0 0 35px 20px;
+	left:240px;
+	position:relative;
+}
+.com_news
+{
+	height:315px;
+	width:200px;
+	background-color:#9A9A9A;
+	float:right;
+	margin:0 50px 0 0;
+}
+.welcome
+{
+	width:475px;
+	height:315px;
+	background-color:#C1C1C1;
+	margin:0 0 0 20px;
+}
+footer
+{
+	width:760px;
+	height:55px;
+	background-color:#C1C1C1;
+	margin:25px 20px 20px 20px;
+}
